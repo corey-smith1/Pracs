@@ -1,2 +1,0 @@
-# Pracs
-For my pracs 
